@@ -11,5 +11,4 @@ Estoy lista para esta gran aventura, espero formar parte de tu equipo y podamos 
 
 ###  💻 Technologies
 ## Languages, Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
