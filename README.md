@@ -9,7 +9,9 @@ Entusiasmada de aplicar mis conocimientos, aprender nuevas cosas y participar en
 Estoy lista para esta gran aventura, espero formar parte de tu equipo y podamos emprender grandes proyectos que nos lleven a grandes resultados, me emociona mucho forma parte de esta gran era tecnológica.
 ¡Agradezco visites mi perfil de GitHub y espero tener la oportunidad de colaborar juntos en un futuro cercano!
 
-###  💻 Technologies
 ## Languages, Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,cpp,flask,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,cpp,flask,react,c,kotlin,php=light)](https://skillicons.dev)
+## Design Tools, Libraries and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap=light)](https://skillicons.dev)
+
 
