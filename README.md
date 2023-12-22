@@ -10,8 +10,8 @@ Estoy lista para esta gran aventura, espero formar parte de tu equipo y podamos 
 ¡Agradezco visites mi perfil de GitHub y espero tener la oportunidad de colaborar juntos en un futuro cercano!
 
 ## Languages, Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,cpp,flask,react,c,kotlin,php=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,cpp,flask,react,c,kotlin,php=dark)](https://skillicons.dev)
 ## Design Tools, Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,css=light)](https://skillicons.dev)
 
 
