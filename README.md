@@ -16,7 +16,7 @@ Estoy lista para esta gran aventura, espero formar parte de tu equipo y podamos 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,=light)](https://skillicons.dev)
 ## Software and Tools
-[![My Skills](https://skillicons.dev/icons?i=postman,github,git,firebase=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,github,git,firebase,spring=light)](https://skillicons.dev)
 ## IDE
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,androidstudio,=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,androidstudio,arduino,idea,=light)](https://skillicons.dev)
 
