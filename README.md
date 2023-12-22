@@ -12,6 +12,6 @@ Estoy lista para esta gran aventura, espero formar parte de tu equipo y podamos 
 ## Languages, Libraries and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,python,java,cpp,flask,react,c,kotlin,php=dark)](https://skillicons.dev)
 ## Design Tools, Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,css=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,)](https://skillicons.dev)
 
 
